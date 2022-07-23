@@ -34,5 +34,5 @@ nodemon app.js
 
 此時 console 中應該會顯示 <code>server listen on http://localhost:3000</code>，代表專案已經正式開始運作囉！
 
-4. 瀏覽網頁
+4. 瀏覽網頁 <br>
 點開 http://localhost:3000，就可以看到「我的餐廳清單」
